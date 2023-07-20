@@ -5,7 +5,7 @@
 #
 Name     : qalculate-gtk
 Version  : 4.5.0
-Release  : 11
+Release  : 12
 URL      : https://github.com/Qalculate/qalculate-gtk/releases/download/v4.5.0/qalculate-gtk-4.5.0.tar.gz
 Source0  : https://github.com/Qalculate/qalculate-gtk/releases/download/v4.5.0/qalculate-gtk-4.5.0.tar.gz
 Summary  : Multi-purpose cross-platform desktop calculator.
